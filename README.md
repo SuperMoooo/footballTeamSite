@@ -1,4 +1,4 @@
-Next Js + Tailwind Football Team Website
+# Next Js + Tailwind Football Team Website
 Live: https://supermoooo.github.io/footballTeamSite/
 ![image](https://github.com/SuperMoooo/footballTeamSite/assets/134961694/292b502e-7480-46d7-bbec-8eccfc8248c8)
 ![image](https://github.com/SuperMoooo/footballTeamSite/assets/134961694/388a3c75-7c9c-4680-b4dd-0ce79c1139b5)
